@@ -1,4 +1,4 @@
 # Honkit Title test
 
   npm install
-  npx serve
+  npm run serve

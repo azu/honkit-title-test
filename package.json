@@ -1,0 +1,16 @@
+{
+  "name": "honkit-title",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^3.6.17"
+  }
+}

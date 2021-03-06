@@ -1,4 +1,8 @@
 # Honkit Title test
 
-  npm install
-  npm run serve
+https://azu.github.io/honkit-title-test/_book
+
+```
+npm install
+npm run serve
+````

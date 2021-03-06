@@ -1,6 +1,6 @@
 # Honkit Title test
 
-https://azu.github.io/honkit-title-test/_book
+https://azu.github.io/honkit-title-test/
 
 ```
 npm install
